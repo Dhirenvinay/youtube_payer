@@ -218,13 +218,13 @@
       "languageVersion": "3.4"
     },
     {
-      "name": "youtube_player_flutter",
+      "name": "youtube_payer",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "3.5"
     }
   ],
-  "generated": "2025-08-06T07:59:06.187421Z",
+  "generated": "2025-08-06T08:33:43.964746Z",
   "generator": "pub",
   "generatorVersion": "3.5.3",
   "flutterRoot": "file:///Users/lb/development/flutter",
